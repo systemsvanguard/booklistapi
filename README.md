@@ -1,7 +1,7 @@
 # Book List API
-A simple JSON-base REST API based on JSON Placeholder.
+A simple JSON-base REST API based on JSON Placeholder. To be used/ consumed by my React.js and Vue.js projects, soon to be deployed.
 
-Live **Site Demo** ~ [Book List API](http://buckethooks.ryanhunter.ca/) 
+Live **Site Demo** ~ [Book List API](https://booklistapi.openode.io/books/) 
 
 ![Book List API 1](http://ryanhunter.ca/images/portfolio/booklistapi_01.png)
 
@@ -33,6 +33,8 @@ This project is licensed under the terms of the **MIT** license.
 ## Screenshots 
 
 ![Book List API 1](http://ryanhunter.ca/images/portfolio/booklistapi_01.png)
+
+
 
 ![Book List API 2](http://ryanhunter.ca/images/portfolio/booklistapi_02.png)
 
